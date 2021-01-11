@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miro_test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/miro_test/static/js/main.df0a905e.chunk.js",
+    "main.js.map": "/miro_test/static/js/main.df0a905e.chunk.js.map",
+    "runtime-main.js": "/miro_test/static/js/runtime-main.a41b0c9d.js",
+    "runtime-main.js.map": "/miro_test/static/js/runtime-main.a41b0c9d.js.map",
+    "static/js/2.3be74709.chunk.js": "/miro_test/static/js/2.3be74709.chunk.js",
+    "static/js/2.3be74709.chunk.js.map": "/miro_test/static/js/2.3be74709.chunk.js.map",
+    "static/js/3.d09838f4.chunk.js": "/miro_test/static/js/3.d09838f4.chunk.js",
+    "static/js/3.d09838f4.chunk.js.map": "/miro_test/static/js/3.d09838f4.chunk.js.map",
+    "index.html": "/miro_test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/miro_test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3be74709.chunk.js.LICENSE.txt": "/miro_test/static/js/2.3be74709.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/miro_test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a41b0c9d.js",
+    "static/js/2.3be74709.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.df0a905e.chunk.js"
+  ]
+}
